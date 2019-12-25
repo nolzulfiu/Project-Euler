@@ -1,0 +1,11 @@
+C:\Users\Nol\source\repos\Project Euler\bin\Debug\netcoreapp3.0\Project Euler.exe
+C:\Users\Nol\source\repos\Project Euler\bin\Debug\netcoreapp3.0\Project Euler.deps.json
+C:\Users\Nol\source\repos\Project Euler\bin\Debug\netcoreapp3.0\Project Euler.runtimeconfig.json
+C:\Users\Nol\source\repos\Project Euler\bin\Debug\netcoreapp3.0\Project Euler.runtimeconfig.dev.json
+C:\Users\Nol\source\repos\Project Euler\bin\Debug\netcoreapp3.0\Project Euler.dll
+C:\Users\Nol\source\repos\Project Euler\bin\Debug\netcoreapp3.0\Project Euler.pdb
+C:\Users\Nol\source\repos\Project Euler\obj\Debug\netcoreapp3.0\Project Euler.csprojAssemblyReference.cache
+C:\Users\Nol\source\repos\Project Euler\obj\Debug\netcoreapp3.0\Project Euler.AssemblyInfoInputs.cache
+C:\Users\Nol\source\repos\Project Euler\obj\Debug\netcoreapp3.0\Project Euler.AssemblyInfo.cs
+C:\Users\Nol\source\repos\Project Euler\obj\Debug\netcoreapp3.0\Project Euler.dll
+C:\Users\Nol\source\repos\Project Euler\obj\Debug\netcoreapp3.0\Project Euler.pdb
